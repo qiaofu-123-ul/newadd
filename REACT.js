@@ -1,1 +1,1 @@
-console.log('中国')
+console.log('卡萨丁')
